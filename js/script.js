@@ -1,0 +1,1 @@
+particlesJS.load('particles-js', './vanta.net.min.js');
